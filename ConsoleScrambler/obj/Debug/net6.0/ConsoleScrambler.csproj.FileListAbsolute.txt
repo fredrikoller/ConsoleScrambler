@@ -1,0 +1,15 @@
+/Users/fredrik/development/ConsoleScrambler/bin/Debug/net6.0/ConsoleScrambler
+/Users/fredrik/development/ConsoleScrambler/bin/Debug/net6.0/ConsoleScrambler.deps.json
+/Users/fredrik/development/ConsoleScrambler/bin/Debug/net6.0/ConsoleScrambler.runtimeconfig.json
+/Users/fredrik/development/ConsoleScrambler/bin/Debug/net6.0/ConsoleScrambler.dll
+/Users/fredrik/development/ConsoleScrambler/bin/Debug/net6.0/ConsoleScrambler.pdb
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/ConsoleScrambler.csproj.AssemblyReference.cache
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/ConsoleScrambler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/ConsoleScrambler.AssemblyInfoInputs.cache
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/ConsoleScrambler.AssemblyInfo.cs
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/ConsoleScrambler.csproj.CoreCompileInputs.cache
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/ConsoleScrambler.dll
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/refint/ConsoleScrambler.dll
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/ConsoleScrambler.pdb
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/ConsoleScrambler.genruntimeconfig.cache
+/Users/fredrik/development/ConsoleScrambler/obj/Debug/net6.0/ref/ConsoleScrambler.dll
