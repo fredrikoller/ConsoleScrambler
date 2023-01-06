@@ -18,18 +18,18 @@ PrintTeam(timeout, Teams.SPECTATORS);
 
 static List<string> CreatePlayers() => new()
 {
-    "frittzinator",
     "gravling138",
-    "machinshin",
+    "frittzinator",
     "darkling",
-    "bathamel",
-    "pornflakes",
-    "roboduck",
-    "trayal",
+    "machinshin",
     "mepzon",
-    "nejon",
     "boobo",
-    "nobody"
+    // "nejon",
+    "nobody",
+    "trayal",
+    "roboduck",
+    "bathamel",
+    // "pornflakes",
 };
 
 static void PrintTeam(List<string> team, string channel)
